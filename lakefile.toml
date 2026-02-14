@@ -1,0 +1,7 @@
+name = "LeanPlayground"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["LeanPlayground"]
+
+[[lean_lib]]
+name = "LeanPlayground"
